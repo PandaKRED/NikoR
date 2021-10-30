@@ -1,4 +1,4 @@
-# nikor-tamagochi-
+# NikoR
 un tamagochi en python
 
 Le projet n'a pas encore commencé mais ne sait que tarder..
