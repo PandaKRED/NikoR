@@ -1,15 +1,4 @@
-
-Cahier des charges
-
-Version : 1.0
-Type de projet : jeux/programmation
-Langage : python
-Nom du jeu : Nikor
-Auteur : PandaKRED
-IDE : Visual Studio Code
-Particpants : PandaKRED
-Lien du GitHub : 
-Date de création : 30/10/2021
+Cahier des charges Nikor v.1
 
 1. Général
 
@@ -42,11 +31,12 @@ Il est possible de le personnaliser dans la boutique en payant avec des NikorCoi
 1.4 Arenes/combat :
 Nikor peut combattre des monstres dans l'arene ou la carte d'exploration, avec il gagnera de l'argent ou des skins, de l'experience ou le mode PandaKRED.
 
-Nikor peut faire des donjons disponible sur une carte : la carte d'exploration.
-	- Grotte
-	- Chateau
+Nikor peut faire des donjons disponible sur une carte : la carte d'exploration :
+
 	- Maison hanté
+	- Chateau	
 	- Volcan
+	- Grotte
 	- Enfer
 
 1.5 Attribut :
@@ -109,6 +99,25 @@ Monnaie du jeu qui s'obtient a chaque fois qu'un niveau est passé, lors des com
 
 2. Graphique
 
+La fenetre sera bleu, sur la partie gauche Nikor dans sa maison, en dessous de lui, les choses dont il a besoin, en haut a gauche, un bouton pour acceder a l'inventaire, les boutiques, les combats et la carte d'exploration.
+Sur la partie droite, les parties pour améliorer le personnages, en haut à droite, le niveau du joueur, son experience, son argent et sa nourriture disponible.
+Taille de la fenetre : 1080x720
+Nom de la fentre : Nikor
+Icone de la fenetre : un renard
+
 3. Technique
+
+
+Version : 1.0
+Type de projet : jeux/programmation
+Langage : python
+Nom du jeu : Nikor
+Auteur : PandaKRED
+IDE : Visual Studio Code
+Particpants : PandaKRED
+Lien du GitHub : 
+Date de création : 30/10/2021
+module : pygame | random
+Cherchez une facon pour enregistrer la partie
 
 3028819
