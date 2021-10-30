@@ -1,0 +1,114 @@
+
+Cahier des charges
+
+Version : 1.0
+Type de projet : jeux/programmation
+Langage : python
+Nom du jeu : Nikor
+Auteur : PandaKRED
+IDE : Visual Studio Code
+Particpants : PandaKRED
+Lien du GitHub : 
+Date de création : 30/10/2021
+
+1. Général
+
+1.1 But du jeu :
+la personnage dispose d'une interface grafique avec laquel elle peut intéragir, elle doit nourrir, coucher, faire boire, balader, lui faire apprendre des choses, etc. etc. Pour cela elle a différente actions disponible.
+
+1.2 Interface :
+Sur la partie droite de l'écran se trouve le personnage et sur la partie droite, tout les actions disponible. En haut à droite, un icone "Magasin" pour customiser le fond et l'apparence du personnage (nikor).
+Il y a aussi sous Nikor une barre d'information sur ce qu'il a besoin :
+	- Nourriture (doit lui donner a manger en achetant au supermarché)
+	- Amuser (doit joueur avec lui)
+	- Hygiene (doit lui brosser les dents, le doucher etc etc)
+	- heureux (doit veiller a qu'il se sente bien sur les autres parametres et qu'il est une jolie maison)
+
+1.3 Personnage :
+Le petit personnage avec lequel le joueur peut intéragir s'appelle nikor, il a plusieurs évolution au fur et à mesure du temps :
+	- oeuf
+	- bébé renard
+	- enfant renard
+	- renard adulte
+	- renard squelette
+	- renard star
+	- renard ninja
+	- renard dragon
+	- démon renard
+	- renard doré
+	- renard PandaKRED (secret)
+Il est possible de le personnaliser dans la boutique en payant avec des NikorCoins qui s'obtiennent de plusieurs facon.
+
+1.4 Arenes/combat :
+Nikor peut combattre des monstres dans l'arene ou la carte d'exploration, avec il gagnera de l'argent ou des skins, de l'experience ou le mode PandaKRED.
+
+Nikor peut faire des donjons disponible sur une carte : la carte d'exploration.
+	- Grotte
+	- Chateau
+	- Maison hanté
+	- Volcan
+	- Enfer
+
+1.5 Attribut :
+Les choses que le joueur peut améliorer sont :
+		- Vie (combat)
+		- attaque (combat)
+		- défense (combat)
+		- resistance aux maladies
+		- maturité
+
+Pour passer un attribut d'un niveau à l'autre il faut niv. 1  = 100 xp, niv.2 = 200 xp, niv.3 = 300xp...
+
+
+Le joueur peut améliorer nikor en obtenant de l'expérience dans les combats, en jouant avec lui, quand il commence le jeu le joueur a de l'experience, et dans un petit jeu alternatif (le jeu avec l'arbre et les momies).
+
+Nikor passe au niveaux supérieur quand :
+		- oeuf -> bébé renard (tout les atribut niveau 2, niveau du joueur(NDJ) : 2)
+		- bébé renard -> renard adulte (tout les attribut niveau 5, NDJ : 5)
+		- renard adulte -> renard squelette (tout les attribut niveau 8, NDJ : 8)
+		- renard squelette -> renard star (tout les attribut(TLA): niv.12, NDJ : 12)
+		- renard star -> renard ninja (TLA : 16, NDJ : 16)
+		- renard ninja -> renard dragon (TLA : 20, NDJ : 20) 
+		- renard dragon -> démon renard (TLA : 25, NDJ : 25)
+		- démon renard -> renard doré (TLA : 35, NDJ : 35)
+		- renard doré -> renard PandaKRED (TLA : 50, NDJ : 50)	
+
+1.4 Maison
+
+Nikor dipose d'une maison ou il est le plus souvant, c'est la que le joueur peut s'occuper de lui. Le joueur peut améliorer sa maison avec de l'argent, plus nikor a une belle maison plus il sera heureux
+
+1.5 Niveaux du joueur
+
+Le joueur augmente de niveau quand il fait des combat, quand il joue avec nikor, quand il augmente les attributs de Nikor.
+	Niveau 1 : 1000 xpniveau
+	Niveau 2 : 2000 xpniveau
+	Niveau 3 : 3000 xpniveau
+	etc. etc.
+
+A chaque niveau, un attribut au hasard est améliorer
+
+1.6 Magasin d'habit
+
+Le joueur peut y acheter des habits pour Nikor, et le personnaliser. Il achete avec des NikorCoins.
+
+1.7 supermarché
+
+Au super marché le joueur peut achter des habits de basse qualité, des objets pour améliorer les capacité du joueur et de la nourriture pour nourir le jouer. Il paye avec des NikorCoins.
+
+1.8 Jouer avec Nikor
+
+Pour jouer avec Nikor le joueur peut deviner des devinettes que lui pose Nikor, discuter avec lui, jouer a comet fall game et lui cliquer dessus.
+
+1.9 Magasin meubles/murs
+
+Le magasin pour personnalisez la maison de Nikor, il faut évidemment payer avec des NikorCoins.
+
+1.10 NikorCoins
+
+Monnaie du jeu qui s'obtient a chaque fois qu'un niveau est passé, lors des combats et toutes les minutes..
+
+2. Graphique
+
+3. Technique
+
+3028819
