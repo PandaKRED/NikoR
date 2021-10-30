@@ -19,12 +19,12 @@ Le petit personnage avec lequel le joueur peut intéragir s'appelle nikor, il a 
 	- bébé renard
 	- enfant renard
 	- renard adulte
-	- renard squelette
-	- renard star
+	- renard star fox
 	- renard ninja
+	- renard démon
 	- renard dragon
-	- démon renard
-	- renard doré
+	- démon renard à neuf queues naruto
+	- renard buggé
 	- renard PandaKRED (secret)
 Il est possible de le personnaliser dans la boutique en payant avec des NikorCoins qui s'obtiennent de plusieurs facon.
 
